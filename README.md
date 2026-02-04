@@ -154,5 +154,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 > **Disclaimer:** This tool scans local files. While privacy-first, always ensure you have permission to process the data you are scanning.
 
-
-```
