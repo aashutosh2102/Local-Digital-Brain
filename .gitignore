@@ -1,0 +1,34 @@
+# --- IGNORE HUGE FILES ---
+*.exe
+*.msi
+*.bin
+*.dll
+*.zip
+*.tar
+*.gz
+
+# --- IGNORE MEDIA ---
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# --- IGNORE DATA ---
+*.graphml
+*.graphml.tmp
+status.json
+*.log
+*.pbix
+*.pdf
+*.xlsx
+*.csv
+*.txt
+*.json
+
+# --- SYSTEM ---
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
+node_modules/
