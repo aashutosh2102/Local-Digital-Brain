@@ -134,15 +134,15 @@ streamlit run app.py
 
 This project is evolving from a Graph Builder into a fully autonomous "Digital Second Brain."
 
-* [ ] **Phase 2: Vector Intelligence (RAG)**
+* **Phase 2: Vector Intelligence (RAG)**
 * Add `ChromaDB` to support semantic search (e.g., "Find documents about cost overruns" -> finds files mentioning "budget spike").
 
 
-* [ ] **Phase 3: LLM Chat Interface**
+* **Phase 3: LLM Chat Interface**
 * Connect the Graph to Ollama/Llama 3 to "Chat with your data."
 
 
-* [ ] **Phase 4: Auto-Classification Agents**
+* **Phase 4: Auto-Classification Agents**
 * Replace Regex rules with Zero-shot AI classifiers.
 
 
